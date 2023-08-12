@@ -8,4 +8,6 @@ st.sidebar.markdown("""
 - Home
 - Contact
 - About
+- Career
+- Login
 """)
